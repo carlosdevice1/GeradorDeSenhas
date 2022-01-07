@@ -11,7 +11,7 @@
 <ul>
  <li><a href="#sobre">Sobre</a></li>
  <li><a href="#tecnologias">Técnologias usadas</a></li> 
- <li><a href="#sessao">sessão da página</a></li>
+  
  
 </ul>
 
@@ -35,6 +35,7 @@ Foi desenvolvido diretamente no código, sem o uso de Wireframe.</p>
 
 <h3>Sessão Principal:</h3>
 
+![Sem título](https://user-images.githubusercontent.com/70172954/148599085-6bd879be-c932-43b2-8b12-5e3855f28f14.png)
   
  
  
